@@ -73,9 +73,15 @@ Nope.
 
 <img width="200" src="https://github.com/yingyunhu/IOT/assets/112943865/4c443bbe-5fd0-4533-a355-6d3539a659f8">
 
+6. Ligt het aan m'n hotspot instellingen?
+<img width="676" alt="Screenshot 2023-10-04 at 15 58 10" src="https://github.com/yingyunhu/IOT/assets/112943865/d524748f-09c0-419d-ae8b-3378588960ab">
+
+Zucht.. Deze stond al aan. 
+
+<img width="200" src="https://github.com/yingyunhu/IOT/assets/112943865/6bf78957-4926-4f16-b4f3-3ac8e2243f93">
 
 
-6. De naam van m'n dashboard misschien veranderen naar 'color'? 
+8. De naam van m'n dashboard misschien veranderen naar 'color'? 
 <img width="681" alt="Screenshot 2023-10-04 at 14 59 18" src="https://github.com/yingyunhu/IOT/assets/112943865/5f699d1a-b258-4e00-8432-5c52c11b974e">
 
 Nope, heb nog steeds de puntjes. 
