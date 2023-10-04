@@ -1,2 +1,2 @@
-# IOT
-Proces van het installeren van Philips Hue
+# IOT - Philips Hue
+Ying Yun Hu
