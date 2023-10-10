@@ -1,0 +1,14 @@
+#Telegram - Lower Tech
+Ying Yun Hu
+
+##Introduction
+In this document I will explain how you can control a LED strip with Telegram with Arduino. 
+
+What you’ll need:
+- Arduino IDE
+- NodeMCU ESP8266
+- RGB LED Strip
+- USB C to micro USB cable
+
+##Step 1 - Download Telegram
+First you have to download the Telegram Library for your Arduino. This Library is called TelegramBot by Casa Jasmina.
